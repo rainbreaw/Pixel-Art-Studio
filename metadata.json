@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Art Studio",
+  "description": "A creative pixel art drawing application with a customizable grid, color shelf, and undo functionality.",
+  "requestFramePermissions": []
+}
